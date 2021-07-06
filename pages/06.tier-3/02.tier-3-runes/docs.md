@@ -30,3 +30,20 @@ Luckily we can craft Runes of Capacity, this will increase the amount of LP the 
 
 ### Rune of Displacement
 With no runes, the Altar will fill up blood orbs and slates at a rate of 20LP per second. This can be increased with Runes of Displacement, which increases the transfer rate of the Altar by 1.2x per Rune. This makes filling orbs a little faster.
+
+an estimate list for better understanding
+
+| number of runes | tranfer rate |
+|--|--|
+| 1 | 24 |
+| 2 | 28 |
+| 3 | 34 |
+| 4 | 41 |
+| 5 | 49 |
+| 6 | 59 |
+| 7 | 71 |
+| 8 | 85 |
+| 9 | 103 |
+| 10 | 123 |
+ skipping to one bucket 
+| 22 | 1104 |
